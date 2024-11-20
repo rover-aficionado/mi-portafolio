@@ -1,0 +1,15 @@
+html{
+    background-color: aliceblue;
+}
+
+#titulo{
+    color: red;
+    font-size: 3rem;
+    font-family: sans-serif;
+}
+
+#tabla{
+    margin: 0 auto;
+    border-radius: 5px;
+    border: .2rem black solid;
+}
